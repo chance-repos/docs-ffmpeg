@@ -1,5 +1,5 @@
 # ffmpeg
-ffmpeg资料技术手册
+一些关于ffmpeg的知识和实践经验
 
 ## 主要内容
 
